@@ -170,7 +170,6 @@ AlexNetVariant.ipynb
 
 and execute the notebook cells sequentially.
 
-> **Note:** Depending on the local environment and dataset configuration, paths or dependencies may need to be adjusted before running the notebooks.
 
 
 ##  Learning Outcomes
@@ -186,11 +185,6 @@ Through this project, the following concepts are explored:
 * Practical machine learning workflow
 
 
-##  Author
 
-**YOUR NAME**
-
-GitHub: `Alisha9ziya`
-
----
+-
 
